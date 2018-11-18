@@ -1,2 +1,2 @@
 # push-notification
-These are the methods to send a silent notification and to trigger a local notifications.
+These are the methods to handle a silent notification and trigger a local notifications.
